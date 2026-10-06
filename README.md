@@ -2,6 +2,14 @@
 
 PHP SDK para as APIs do Banco do Brasil — Cobrança (Boletos), PIX, Pagamentos em Lote e Extratos com suporte multi-conta.
 
+<p align="center">
+    <a href="https://packagist.org/packages/caiquebispo/banco-do-brasil"><img src="https://poser.pugx.org/caiquebispo/banco-do-brasil/v/stable" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/caiquebispo/banco-do-brasil"><img src="https://poser.pugx.org/caiquebispo/banco-do-brasil/downloads" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/caiquebispo/banco-do-brasil"><img src="https://poser.pugx.org/caiquebispo/banco-do-brasil/v/unstable" alt="Latest Unstable Version"></a>
+    <a href="https://packagist.org/packages/caiquebispo/banco-do-brasil"><img src="https://poser.pugx.org/caiquebispo/banco-do-brasil/license" alt="License"></a>
+    <a href="https://packagist.org/packages/caiquebispo/banco-do-brasil"><img src="https://poser.pugx.org/caiquebispo/banco-do-brasil/require/php" alt="PHP Version Require"></a>
+</p>
+
 ## Requisitos
 
 - PHP 8.2+
